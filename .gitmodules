@@ -1,0 +1,3 @@
+[submodule "se-backend"]
+	path = se-backend
+	url = git@github.com:NQLong/se-backend.git

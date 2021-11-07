@@ -1,0 +1,9 @@
+[submodule "se-backend"]
+	path = se-backend
+	url = https://github.com/NQLong/se-backend.git
+[submodule "se-frontend"]
+	path = se-frontend
+	url = https://github.com/NQLong/se-frontend.git
+[submodule "se-documents"]
+	path = se-documents
+	url = https://github.com/NQLong/se-documents.git

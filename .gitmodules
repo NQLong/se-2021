@@ -1,9 +1,0 @@
-[submodule "se-backend"]
-	path = se-backend
-	url = git@github.com:NQLong/se-backend.git
-[submodule "se-frontend"]
-	path = se-frontend
-	url = git@github.com:NQLong/se-frontend.git
-[submodule "se-documents"]
-	path = se-documents
-	url = git@github.com:NQLong/se-documents
